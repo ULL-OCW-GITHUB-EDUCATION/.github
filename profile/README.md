@@ -7,7 +7,7 @@ Para seguir el curso sigue las lecciones en los [Apuntes](https://ull-ocw-github
 
 En este enlace encontrarás la [guía docente](https://ull-ocw-github-education.github.io/assets/pdfs/anexo_2_guia_docente_rellena_v3.pdf) del curso.
 
-## Recursos
+## Recursos relacionados
 
 * [GitHub-Global-Campus/Global-Campus-Teachers discussions](https://github.com/GitHub-Global-Campus/Global-Campus-Teachers/discussions)
 * [GitHub Education Community](https://education.github.community/)
