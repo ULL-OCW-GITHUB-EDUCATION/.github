@@ -8,12 +8,14 @@ Haz tus preguntas en el [foro de discusiones de la organización](https://github
 
 En este enlace encontrarás la [guía docente](https://ull-ocw-github-education.github.io/assets/pdfs/anexo_2_guia_docente_rellena_v3.pdf) del curso.
 
-## Recursos relacionados
 
-* Para beneficiarse de los descuentos que ofrece GitHub deberás verificar tu condición de empleo académico y una vez acceptado en el program *"Global Campus"*, podemos solicitar hojas de atajos, guías, pegatinas, etc. para los estudiantes. Busque la sección de descuentos en la página [https://education.github.com](https://education.github.com/discount_requests/teacher_application)
-* [GitHub Education: teacher's page](https://education.github.com/globalcampus/teacher) 
-  - Aquí (si estás autenticado y dado de alta) encontrarás el boton de *Upgrade to GitHub Team* para que tus organizaciones se acojan a los beneficios 
-* En [Teacher's Discussions](https://github.com/github-community/Global-Campus-Teachers/discussions) encontrarás el foro de preguntas y respuestas de la comunidad GitHub Education. La página de [GitHub Education Community](https://education.github.community/) ya no se mantiene pero sigue disponible
+El primer paso es beneficiarse de los descuentos que ofrece GitHub para lo que deberás verificar tu condición de empleo académico y una vez acceptado en el program *"Global Campus"*, podrás solicitar hojas de atajos, guías, pegatinas, etc. para tus estudiantes. Busca la sección de descuentos en la página [https://education.github.com](https://education.github.com/discount_requests/teacher_application)
+
+
+Una vez estás en el programa *"Global Campus"* podrás acogerte a los beneficios que ofrece GitHub a los educadores. Aquí (si estás autenticado y dado de alta) encontrarás el boton de *Upgrade to GitHub Team* para que tus organizaciones se acojan a los beneficios: [GitHub Education: teacher's page](https://education.github.com/globalcampus/teacher) 
+  
+La función de este curso y estas páginas es la de iniciar en como hacer uso de git y GitHub en las labores de enseñanza y por tanto no cubre numerosas dudas y problemas. En el foro [Teacher's Discussions](https://github.com/github-community/Global-Campus-Teachers/discussions) encontrarás preguntas y respuestas de la comunidad GitHub Education. Puedes encontrar la antigua página de [GitHub Education Community aquí](https://education.github.community/), aqunque ya no se mantiene, sigue disponible.
+
 * GitHub tiene montado un curso para enseñar a usar Git y GitHub que, como hace este mismo curso, usa GitHub Classroom para las asignaciones. Si te animas a hacerlo este es el enlace a la asignación que creará tu repo de trabajo: [Teacher training to master Git and GitHub](https://classroom.github.com/assignment-invitations/5fcbfd62a2c37aca3fe728a635964eaf).
 * [GitHub Classroom de esta Organización](https://classroom.github.com/classrooms/109737506-ull-ocw-github-education)
 * [Foro de este Curso](https://github.com/orgs/ULL-OCW-GITHUB-EDUCATION/discussions)
