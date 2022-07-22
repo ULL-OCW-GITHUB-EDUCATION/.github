@@ -1,7 +1,7 @@
 Bienvenido a la Organización GitHub del curso OCW de la Universidad de La Laguna **INTEGRACIÓN DE LAS HERRAMIENTAS "GITHUB EDUCATION" EN EL AULA** 
 
 
-Este curso va dirigido a cualquier educador de habla hispana interesado en la elaboración de actividades usando Github Education en su docencia diaria.
+Este curso va dirigido a cualquier educador de habla hispana interesado en desarrollar sus cursos haciendo usando de los recursos, herramientas, servicios y metodologías que están asociados al  programa **Github Education**.
 
 Para seguir el curso sigue las lecciones en los [Apuntes](https://ull-ocw-github-education.github.io/), acepta cada una de las asignaciones de tareas que aparecen en el [Aula OCW de la ULL en el Campus virtual](https://campusvirtual.ull.es/ocw/course/view.php?id=136) y deja tu informe con los resultados en el repositorio creado dentro de esta organización. Si te animas, utilizando las incidencias solicita comentarios de los restantes miembros de la organización sobre la tarea realizada.
 Haz tus preguntas en el [foro de discusiones de la organización](https://github.com/orgs/ULL-OCW-GITHUB-EDUCATION/discussions)
