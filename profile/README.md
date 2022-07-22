@@ -2,5 +2,5 @@ Bienvenido a la Organización GitHub del curso OCW de la Universidad de La Lagun
  
  * [Apuntes](https://ull-ocw-github-education.github.io/) 
  * [Aula en el Campus virtual](https://campusvirtual.ull.es/ocw/course/view.php?id=136)
- * [Guía Docente](https://{{site.baseurl}}/assets/pdfs/anexo_2_guia_docente_rellena_v3.pdf)
+ * [Guía Docente](https://ull-ocw-github-education.github.io/assets/pdfs/anexo_2_guia_docente_rellena_v3.pdf)
  * [GitHub Classroom]()
