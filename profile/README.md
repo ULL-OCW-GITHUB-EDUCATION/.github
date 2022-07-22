@@ -14,3 +14,4 @@ En este enlace encontrarás la [guía docente](https://ull-ocw-github-education.
   - Aquí encontrarás el boton de *upgrade* para obtener los beneficios en tus organizaciones
 * [Teacher's Discussions](https://github.com/github-community/Global-Campus-Teachers/discussions). La página de [GitHub Education Community](https://education.github.community/) ya no se mantiene
 * [GitHub Classroom de esta Organización](https://classroom.github.com/classrooms/109737506-ull-ocw-github-education)
+* [Foro de este Curso](https://github.com/orgs/ULL-OCW-GITHUB-EDUCATION/discussions)
