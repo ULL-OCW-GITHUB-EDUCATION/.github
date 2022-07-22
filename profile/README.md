@@ -10,6 +10,7 @@ En este enlace encontrarás la [guía docente](https://ull-ocw-github-education.
 
 ## Recursos relacionados
 
+* Para beneficiarse de los descuentos que ofrece GitHub deberás verificar tu condición de empleo académico y una vez acceptado en el program *"Global Campus"*, podemos solicitar hojas de atajos, guías, pegatinas, etc. para los estudiantes. Busque la sección de descuentos en la página [https://education.github.com](https://education.github.com/discount_requests/teacher_application)
 * [GitHub Education: teacher's page](https://education.github.com/globalcampus/teacher) 
   - Aquí (si estás autenticado y dado de alta) encontrarás el boton de *Upgrade to GitHub Team* para que tus organizaciones se acojan a los beneficios 
 * En [Teacher's Discussions](https://github.com/github-community/Global-Campus-Teachers/discussions) encontrarás el foro de preguntas y respuestas de la comunidad GitHub Education. La página de [GitHub Education Community](https://education.github.community/) ya no se mantiene pero sigue disponible
