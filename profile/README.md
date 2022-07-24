@@ -20,5 +20,5 @@ Los pasos iniciales que debes dar para obtener los descuentos y crear un aula pa
 La función de este curso y estas páginas es la de iniciar en el uso de markdown, git y GitHub en las labores de enseñanza y por tanto no va a resolver todas las dudas y problemas que te surgirán. En el foro [Teacher's Discussions](https://github.com/github-community/Global-Campus-Teachers/discussions) encontrarás preguntas y respuestas de otros miembros de la comunidad GitHub Education. Puedes encontrar la antigua página de [GitHub Education Community aquí](https://education.github.community/). Aunque ya no se mantiene, sigue disponible.
 
 Si eres totalmente nuevo en esto de Git y GitHub, GitHub tiene montado un curso para enseñar a usar Git y GitHub que, como hace este mismo curso, usa GitHub Classroom para las asignaciones. 
-Si te animas a hacerlo, este es el enlace a la asignación que creará tu repo de trabajo: [Teacher training to master Git and GitHub](https://classroom.github.com/assignment-invitations/5fcbfd62a2c37aca3fe728a635964eaf).
+Si te animas a hacerlo, este es el enlace a la asignación classroom que creará tu repo de trabajo: [Teacher training to master Git and GitHub](https://classroom.github.com/assignment-invitations/5fcbfd62a2c37aca3fe728a635964eaf).
 
