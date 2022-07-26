@@ -2,7 +2,7 @@ Bienvenido a la Organización GitHub del curso OCW de la Universidad de La Lagun
 
 Este curso va dirigido a cualquier educador de habla hispana interesado en desarrollar su labor haciendo usando de los recursos, herramientas, servicios y metodologías que están asociados al  programa **Github Education**.
 
-Para seguir el curso trabaja los [temas](https://ull-ocw-github-education.github.io/index.html) en los [Apuntes](https://ull-ocw-github-education.github.io/) y acepta cada una de las asignaciones de las tareas ✍️ asociadas,  dejando tu informe con los resultados en el repositorio creado dentro dentro de esta misma organización. Si te animas, utilizando las incidencias puedes solicitar comentarios a los profesores y restantes miembros de la organización.
+Para seguir el curso trabaja los [Contenidos](https://ull-ocw-github-education.github.io/index.html) en los [Apuntes](https://ull-ocw-github-education.github.io/) y acepta cada una de las asignaciones de las tareas ✍️ asociadas,  dejando tu informe con los resultados en el repositorio creado dentro dentro de esta misma organización. Si te animas, utilizando las incidencias puedes solicitar comentarios a los profesores y restantes miembros de la organización.
 
 Haz tus preguntas en el [foro de discusiones de la organización](https://github.com/orgs/ULL-OCW-GITHUB-EDUCATION/discussions). Para más instrucciones sobre los debates puedes leer la documentación en [GitHub Debates](https://docs.github.com/es/discussions)
 
