@@ -1,4 +1,4 @@
-Bienvenido a la Organización GitHub del curso OCW de la Universidad de La Laguna **[INTEGRACIÓN DE LAS HERRAMIENTAS "GITHUB EDUCATION" EN EL AULA](https://campusvirtual.ull.es/ocw/course/view.php?id=136) ** 
+Bienvenido a la Organización GitHub del curso OCW de la Universidad de La Laguna **[INTEGRACIÓN DE LAS HERRAMIENTAS "GITHUB EDUCATION" EN EL AULA](https://campusvirtual.ull.es/ocw/course/view.php?id=136)** 
 
 Este curso va dirigido a cualquier educador de habla hispana interesado en desarrollar su labor haciendo usando de los recursos, herramientas, servicios y metodologías que están asociados al  programa **Github Education**.
 
